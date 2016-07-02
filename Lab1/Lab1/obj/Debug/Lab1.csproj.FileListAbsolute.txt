@@ -1,0 +1,9 @@
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\bin\Debug\Lab1.exe.config
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\bin\Debug\Lab1.exe
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\bin\Debug\Lab1.pdb
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\obj\Debug\Lab1.exe
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\obj\Debug\Lab1.pdb
+\\psf\Home\Desktop\Graphics\Lab1\Lab1\obj\Debug\Lab1.Form1.resources

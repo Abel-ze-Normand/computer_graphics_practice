@@ -1,0 +1,11 @@
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\bin\Debug\Lab3.exe.config
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\bin\Debug\Lab3.exe
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\bin\Debug\Lab3.pdb
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\obj\Debug\Lab3.exe
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\obj\Debug\Lab3.pdb
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\bin\Debug\MathNet.Numerics.dll
+\\psf\Home\Desktop\Graphics\Lab3\Lab3\bin\Debug\MathNet.Numerics.xml

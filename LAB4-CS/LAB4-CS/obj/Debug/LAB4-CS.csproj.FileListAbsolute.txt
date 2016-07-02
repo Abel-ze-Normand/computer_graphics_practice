@@ -1,0 +1,9 @@
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\bin\Debug\LAB4-CS.exe.config
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\obj\Debug\LAB4-CS.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\obj\Debug\LAB4_CS.Form1.resources
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\obj\Debug\LAB4_CS.Properties.Resources.resources
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\obj\Debug\LAB4-CS.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\bin\Debug\LAB4-CS.exe
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\bin\Debug\LAB4-CS.pdb
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\obj\Debug\LAB4-CS.exe
+\\psf\Home\Desktop\Graphics\LAB4-CS\LAB4-CS\obj\Debug\LAB4-CS.pdb
